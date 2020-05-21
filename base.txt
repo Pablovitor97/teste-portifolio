@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!--doctype informa ao agente de usuario a versao do html q deve 
+ser renderizada-->
+<html lang="pt-br">
+<head>
+    <title>Pagina, exemplos de estruturas basicas</title>
+    <meta charset="UTF-8"> <!--<meta charset=" utf - 8 "> // indico que esta usando uma codificação mais usada; -->
+    <meta name="author" content="Pablo"> <!--o name="viewpor" é o altor content="nome do autor?"-->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="lista de algo"> <!--descrição do que tem, ela aparece quando buscam algo no google-->
+    <meta name="keywords" content="html5, algo"> <!--ela informa as palavras chaves com relaçao a esta pagina-->
+    
+    
+</head>
+<body>
+    <p>so colocando algo desnecessario</p>
+</body>
+</html>
